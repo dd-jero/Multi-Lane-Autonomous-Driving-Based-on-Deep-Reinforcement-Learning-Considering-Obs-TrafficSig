@@ -9,3 +9,5 @@
   1. Python + Pytorch + CuPy/NumPy + CUDA
   2. 심층강화학습: Customed DQN(Deep Q-Network) = Vanilla DQN + Dueling Architecture + PER(Prioritized Experience Replay) + NoisyNet
   *추가로 고려해본 기법: Multi-step Learning
+
+# 논문 결과: Proposed System vs Vanilla DQN vs NoisyNet
