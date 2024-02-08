@@ -10,4 +10,5 @@
   2. 심층강화학습: Customed DQN(Deep Q-Network) = Vanilla DQN + Dueling Architecture + PER(Prioritized Experience Replay) + NoisyNet
   *추가로 고려해본 기법: Multi-step Learning
 
-# 논문 결과: Proposed System vs Vanilla DQN vs NoisyNet
+# 논문 결과: Proposed System vs Vanilla DQN vs NoisyNet 
+=> 학습의 수렴성 및 안정성 증가, 학습 효율성(속도) 개선, 제안하는 시스템의 목표 주행 달성(차선 주행, 장애물 회피, 신호 준수)
