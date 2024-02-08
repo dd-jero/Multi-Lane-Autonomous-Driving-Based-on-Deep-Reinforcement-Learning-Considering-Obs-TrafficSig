@@ -4,9 +4,11 @@
 - 도로 주행 환경
   1. Unity + ML_Agent toolkit
   2. 차량 에이전트 구현
-  3. 가상 도로 및 장애물, 신호등 오브젝트 구현
+  3. 가상 도로 구현 (Unity Asset 활용)
+  4. 차량 장애물 및 장애물 오브젝트 배치
+     
 - 자율주행 모델
-  1. Python + Pytorch + CuPy/NumPy + CUDA
+  1. Python + Pytorch + CuPy/NumPy + CUDA (Anaconda 사용)
   2. 심층강화학습: Customed DQN(Deep Q-Network) = Vanilla DQN + Dueling Architecture + PER(Prioritized Experience Replay) + NoisyNet
   *추가로 고려해본 기법: Multi-step Learning
 
