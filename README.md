@@ -2,13 +2,13 @@
 ### 2023.12 ~ 2024.02 
 ### 한국정보통신학회 논문지 (JKICS: The Journal of Korean Institute of Information and Communication Sciences) => ACCEPTED(2024.06.15 게제 예정)
 
-- Unity + ML_Agent toolkit
+- ### Unity + ML_Agent toolkit
   1. 도로 주행 환경
   2. 차량 에이전트 구현
   3. 가상 도로 구현 (Unity Asset 활용)
   4. 차량 장애물 및 장애물 오브젝트 배치
      
-- Python API
+- ### Python API
   1. 심층 강화학습 모델 (customed DQN)
   2. Pytorch + CuPy/NumPy + CUDA (Anaconda 사용)
   3. Customed DQN(Deep Q-Network) = Vanilla DQN + Dueling Architecture + PER(Prioritized Experience Replay) + NoisyNet
