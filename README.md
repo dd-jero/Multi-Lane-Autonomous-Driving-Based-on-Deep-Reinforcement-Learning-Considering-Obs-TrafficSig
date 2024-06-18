@@ -1,6 +1,4 @@
 ## 장애물과 신호등을 고려한 디지털 가상환경 모델 구현 및 심층강화학습기반 다차선 자율주행 연구
-### 2023.12 ~ 2024.02 
-### 한국정보통신학회 논문지 (JKICS: The Journal of Korean Institute of Information and Communication Sciences) => ACCEPTED(2024.06.15 게제 예정)
 
 - ### Unity + ML_Agent toolkit
   1. 도로 주행 환경
